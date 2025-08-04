@@ -8,3 +8,7 @@ W.A.M. (Water Analysis on Mars) is a hybrid-mode rover that can be remotely cont
 - Analyze water purity on Mars terrain
 
 ##### Here is where I will be adding the file structure and directions to clone the repo.
+
+#### Cloning the Repository 
+```bash
+git clone https://github.com/vlopezvilla/water-analysis-mars-rover/
