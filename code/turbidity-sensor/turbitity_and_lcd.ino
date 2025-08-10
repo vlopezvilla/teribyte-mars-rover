@@ -1,10 +1,10 @@
-#include <Wire.h>
-#include <LiquidCrystal_I2C.h>
-
 //This code was inspired by the YouTube video: turbidity sensor arduino ||Turbidity meter arduino project.
 //By Skynet Robotics, the link to the video: https://www.youtube.com/watch?v=nT6Q5atNLJM
 //This code was also inpsired by the Youtube video: Determine Water Quality using Arduino and Turbidity Sensor | DIY Turbidity meter.
 //By Muhammad Ansar, the link to the video: https://www.youtube.com/watch?v=MytUqOz5vbY 
+
+#include <Wire.h>
+#include <LiquidCrystal_I2C.h>
 
 // LCD setup - adjust address if needed (common addresses: 0x27, 0x3F)
 LiquidCrystal_I2C lcd(0x27, 16, 2);
