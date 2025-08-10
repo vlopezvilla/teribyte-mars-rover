@@ -1,4 +1,4 @@
-//We refrenceed the Freenove Tuturial for the obstacle detection code and we built the freenove tutorial.
+//We refrenceed the Freenove Tuturial for the obstacle detection code and we built upon the freenove tutorial code.
 //Here is the link to download the tutorial: https://freenove.com/fnk0041
 
 #include <Servo.h> 
