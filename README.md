@@ -1,4 +1,6 @@
 # TeriByte Rover a.k.a Teri
+![teri-byte-rover-pic](docs/image.png)
+
 Teribyte is a hybrid-mode rover that can be remotely controlled or operate autonomously with obstacle avoidance. It conducts water quality analysis to evaluate purity and assess the potential for vegetation/life on Martian terrain.
 
 #### Project Overview 
